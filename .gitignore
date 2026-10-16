@@ -1,0 +1,17 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Pixi environment
+.pixi/
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.user
+*.suo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*~

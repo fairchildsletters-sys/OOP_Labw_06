@@ -2,10 +2,6 @@
 
 Chương trình quản lý danh mục thiết bị giảng dạy, phòng học và quy trình mượn - trả thiết bị bằng ngôn ngữ C# (.NET), áp dụng chặt chẽ các nguyên lý lập trình hướng đối tượng (OOP): Đóng gói, Kế thừa, Lớp trừu tượng, Giao diện (Interface), Đa hình, Kết tập/Hợp thành và Hệ thống kiểm soát ngoại lệ nghiệp vụ.
 
-**Thông tin sinh viên:**
-* **Mã sinh viên:** 202418838
-* **Họ tên:**       Bùi Tuấn Anh
-
 ---
 
 ## 1. Kiến trúc và Các nguyên lý OOP
